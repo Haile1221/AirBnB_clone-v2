@@ -48,7 +48,6 @@ This repository contains the initial stage of a student project to build a clone
 
     * quit - Exits the program (EOF will as well)
 
-
 ##### Alternative Syntax
 Users are able to issue a number of console command using an alternative syntax:
 
